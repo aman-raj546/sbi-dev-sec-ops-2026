@@ -17400,3 +17400,4 @@ Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder '{ 
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522) ~[spring-beans-6.1.6.jar:6.1.6]
 	... 66 common frames omitted
 
+2026-04-16T13:51:23.571+05:30  INFO 8240 --- [restartedMain] com.sbi.ems.App                          : Starting SBI Employee Management System...
