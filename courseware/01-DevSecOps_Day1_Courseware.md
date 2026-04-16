@@ -812,7 +812,7 @@ vault kv get -field=db_password secret/ems
 ```
 
 ```properties
-# bootstrap.properties
+# bootstrap.properties 1
 spring.cloud.vault.uri=http://localhost:8200
 spring.cloud.vault.token=${VAULT_TOKEN}
 spring.cloud.vault.kv.enabled=true
